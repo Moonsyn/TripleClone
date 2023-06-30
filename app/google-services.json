@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "990817622731",
+    "project_id": "tripleclone-65c93",
+    "storage_bucket": "tripleclone-65c93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990817622731:android:194a0d212ba1a5700b994e",
+        "android_client_info": {
+          "package_name": "com.liam.tripleclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990817622731-1gdt9jgbl2tludm8p0ts46kp1k5f29ub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjelq8xX1sTh2tzbmLwgBO5W7tHID9ztA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990817622731-1gdt9jgbl2tludm8p0ts46kp1k5f29ub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,7 +1,9 @@
 package com.liam.tripleclone
 
+import android.content.Intent
 import android.os.Bundle
 import androidx.activity.ComponentActivity
+import androidx.appcompat.app.AppCompatActivity
 import com.liam.tripleclone.databinding.ActivityLoginBinding
 
 
@@ -23,6 +25,7 @@ class LoginActivity : ComponentActivity() {
     private fun init() {
         binding.tvLookAround.setOnClickListener {
             // 둘러보기 TODO
+            startActivity(Intent(baseContext, MainActivity::class.java))
         }
         binding.btnNaver.setOnClickListener {
             // 네이버 로그인 TODO
